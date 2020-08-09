@@ -5,6 +5,7 @@ Explain the purpose of the analysis (compare it with the results from the module
 
 # Results
 - How is the district summary affected?
+![](Pictures/original_district_summary.png)
 - How it the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
