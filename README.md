@@ -42,7 +42,7 @@ How does replacing the ninth-grade scores affect the following:
     
    - Scores by school spending
    #### Original Scores by School Spending
-   ![](Pictures/original_spending_summary.png)
+   ![](Pictures/original_spending_summmary.png)
    #### Challenge Scores by School Spending
    ![](Pictures/challenge_spending_summary.png)
    
