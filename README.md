@@ -5,7 +5,7 @@ The State Board of Education found evidence of academic dishonesty in City Schoo
 This analysis describes how the removal of math and reading scores for Thomas High School's ninth grade class affected the overall performance of Thomas High School and City School District.    
 
 ## Results
-For the purpose of this analysis, we will assume that the original results correspond to the data set that includes and the challenge results correspond to the data set that does not include reading and math grades for Thomas High School's ninth grade class. Here are the performance differences between the original and challenge results: 
+For the purpose of this analysis, we will assume that the original results correspond to the data set that includes and the challenge results correspond to the data set that does not include reading and math grades for Thomas High School's ninth grade class. Below are the performance differences between the original and challenge results.
 
 ### 1. District Summary
 Here are the changes for City School District performance caused by the score removal: 
