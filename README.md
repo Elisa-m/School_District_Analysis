@@ -7,14 +7,14 @@ This analysis describes how the removal of math and reading scores for Thomas Hi
 ## Results
 For the purpose of this analysis, we will assume that the original results correspond to the data set that includes and the challenge results correspond to the data set that does not include reading and math grades for Thomas High School's ninth grade class. Below are the performance differences between the original and challenge results.
 
-### 1. District Summary
+### District Summary
 Here are the changes for City School District performance caused by the score removal: 
 
-1.1. Average math score decreased by 0.1 percentage points.
-1.2. Average reading score remained unchanged.
-1.3. Percentage of students that passed math decreased by 1 percentage point. 
-1.4. Percentage of students that passed reading decreased by 1 percentage point. 
-1.5. Percentage of students that passed both math and reading decreased by 1 percentage point. 
+1. Average math score decreased by 0.1 percentage points.
+2. Average reading score remained unchanged.
+3. Percentage of students that passed math decreased by 1 percentage point. 
+4. Percentage of students that passed reading decreased by 1 percentage point. 
+5. Percentage of students that passed both math and reading decreased by 1 percentage point. 
 
 #### Original District Summary
 ![](Pictures/original_district_summary.png)
@@ -22,14 +22,14 @@ Here are the changes for City School District performance caused by the score re
 #### Challenge District Summary
 ![](Pictures/challenge_disctrict_summary.png)
 
-### 2. School Summary
+### School Summary
 Here are the changes for Thomas Highschool performance caused by the score removal: 
 
-2.1. Average math score decreased by 0.07 percentage points. 
-2.2. Average reading score increased by 0.05 percentage points. 
-2.3. Percentage of students that passed math decreased by 26.36 percentage points. 
-2.4. Percentage of students that passed reading decreased by 27.65 percentage points. 
-2.5. Percentage of students that passed both math and reading decreased by 25.87 percentage points. 
+1. Average math score decreased by 0.07 percentage points. 
+2. Average reading score increased by 0.05 percentage points. 
+3. Percentage of students that passed math decreased by 26.36 percentage points. 
+4. Percentage of students that passed reading decreased by 27.65 percentage points. 
+5. Percentage of students that passed both math and reading decreased by 25.87 percentage points. 
 
 #### Original School Summary
 ![](Pictures/original_school_summary.png)
