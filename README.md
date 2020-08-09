@@ -10,7 +10,7 @@ How is the district summary affected?
 #### Original District Summary
 ![](Pictures/original_district_summary.png)
 #### Challenge District Summary
-![](Pictures/challenge_district_summary.png)
+![](Pictures/challenge_disctrict_summary.png)
 
 ### School Summary
 How is the school summary affected?
